@@ -34,10 +34,6 @@ figcaption{
     text-align: center;
 }
 
-.header{
-
-}
-
 .photo_album {
     display: flex;
     justify-content: space-around;
@@ -67,7 +63,7 @@ figure{
     padding: 20px;
 }
 
-footer{
+footer, header{
     background-color: #AFEEEE;
 }
 
