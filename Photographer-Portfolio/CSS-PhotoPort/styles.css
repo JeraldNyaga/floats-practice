@@ -66,3 +66,12 @@ figcaption{
 figure{
     padding: 20px;
 }
+
+footer{
+    background-color: #AFEEEE;
+}
+
+footer p{
+    margin-bottom: 0;
+    padding: 20px;
+}
