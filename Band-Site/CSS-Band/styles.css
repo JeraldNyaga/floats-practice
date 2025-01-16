@@ -20,7 +20,7 @@ body{
     padding: 10px;
     background-color: #f1f1f1;
     border-radius: 10px;
-    margin: 30px;
+    margin: 32px;
   }
 
   .sidebar li:hover{
@@ -32,7 +32,7 @@ body{
 
   .logo {
     float: right;
-    border-radius: 10% 30% 53% 30%;
+    border-radius: 10% 30% 43% 30%;
   } /* Add Image Specifications */
 
   figure img{
@@ -52,6 +52,7 @@ body{
 
   .photo-collage{
     display: flex;
+    justify-content: center;
   }
 
   
